@@ -1,0 +1,7 @@
+# Project-specific overrides
+# See https://github.com/github/linguist
+themes/**/*.css linguist-detectable
+*.map linguist-generated
+
+docs/* linguist-vendored
+vendor/* linguist-vendored
